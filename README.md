@@ -2,6 +2,7 @@
 - 👀 I’m a front end developer
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on projects 
+- ellamsgeorge7@gmail.com
 - 📫 How to reach me https://ellamsfolio.netlify.app
 
 # ABOUT ME
