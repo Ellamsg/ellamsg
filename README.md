@@ -1,5 +1,5 @@
 # Hi 👋 i'm Ellams George
-#A Frontend Developer
+# A Frontend Developer
 i'm currently developing react web apps using the latest technologies,i'm a creative front end developer, i create delightful website and webapp. A team player with a strong problem solving skill . 
 
 - 👋 Hi, I’m @Ellamsg
