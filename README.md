@@ -4,7 +4,7 @@ i'm currently developing react web apps using the latest technologies,i'm a crea
 
 - 👋 Hi, I’m @Ellamsg
 - 👀 I’m a front end developer
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Next js
 - 💞️ I’m looking to collaborate on projects 
 - ellamsgeorge7@gmail.com
 - 📫 How to reach me https://ellamsfolio.netlify.app
